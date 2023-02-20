@@ -1,6 +1,6 @@
 package by.vsu.domain;
 
-public class Product {
+public class Objects {
 	private String name;
 	private Currency price;
 	private Category category;
